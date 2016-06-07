@@ -1,7 +1,7 @@
 
-
 User Connectedness
 ========
+.. image:: /top_users.png
 
 Wikipedia User Connectedness is a demo software to read data of 100 users, their friends and friends of friends through `MediaWiki API <https://mediawiki.org/wiki/API>`, calculate the connectedness of those 100 users, and export their data for visualization using `Gephi <https://gephi.org>`. 
 
