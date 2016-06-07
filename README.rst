@@ -30,7 +30,7 @@ Data Visualization
 * The network visualization is done using a network visulaization software `Gephi <https://gephi.org>`. 
 * The nodes/links file ``Gephi100.dl`` can be imported directly into Gephi, but some knowledge with Gephi settings is required to get good visualization result. For this type of networks ``Yifan Hu`` layout is recommended, with assigning node size as a function to its in-degree value. 
 * Since the size of the graph is huge, prunning the graph by filtering out all nodes with in-degree 2 or less is recommeded.
-* For a quick look of what an ideal version of the graph should look like, ``Gephi_file.gephi`` can be loaded with Gephi.
+* For a quick look of what an ideal version of the graph should look like, ``Gephi_file.gephi`` can be loaded with Gephi. (The result in the file should look like ``vis3.pdf``)
 
 
 
